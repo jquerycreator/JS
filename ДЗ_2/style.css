@@ -1,0 +1,8 @@
+.Calc{
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+}
+.Calc>input,button{
+	padding: 5px;
+}
